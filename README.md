@@ -1,3 +1,3 @@
 # portfolio-site
 
-https://github.com/OftGefragt/portfolio-site/pull/1
+https://github.com/OftGefragt/portfolio-site  
